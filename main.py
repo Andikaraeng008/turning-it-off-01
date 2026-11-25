@@ -3,7 +3,7 @@
 # /output/entry.txt with no trailing newline, so the file holds exactly
 # the line itself.
 
-TEXT = "Please unplug the router, count to ten, and plug it back in. I'll do the same with my headset, my keyboard, and my career — let's see which one of us reconnects first."
+TEXT = "I rebooted the router, the laptop, and the printer — then I rebooted my career by applying for a job at the company that makes the router, because at least it listens."
 
 if __name__ == "__main__":
     # Gate: the sealed scorer requires UTF-8 text of 1 to 199 characters.
